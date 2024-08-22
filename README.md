@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+## Send Invitation App (пользователей)
+![1660249789449](https://user-images.githubusercontent.com/12086860/184236601-2c8d94bf-105c-4b48-982c-65a6ed4f8c51.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**👀 Useful Concepts**
+1. Working with the useEffect Hook
+2. Sending a Request to the Backend Using fetch and Rendering the Data
+3. Skeleton Loading with the react-content-loader Library
+4. User Search
+5. Rendering a List of Users
+6. Spread Operator
+7. Adding/Removing Users from the Invitation Array
+8. Displaying Loading Information for Content
+
 
 ## Available Scripts
 
